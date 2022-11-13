@@ -1,0 +1,6 @@
+1. Had setup an account on NFT Storage.
+2. Uploaded an image to the following address:
+https://bafybeidhbjhguxohw3nn4rvklk2aa6bsyjlhatdhvpqaukctfh45xtlike.ipfs.nftstorage.link/
+https://ipfs.io/ipfs/bafybeidhbjhguxohw3nn4rvklk2aa6bsyjlhatdhvpqaukctfh45xtlike
+ipfs://bafybeidhbjhguxohw3nn4rvklk2aa6bsyjlhatdhvpqaukctfh45xtlike
+Will associate it with Volcano NFTs in code.
